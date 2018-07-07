@@ -1,2 +1,2 @@
 # DronChat
-This is a general purpose chat application
+This is a general purpose group chat application
